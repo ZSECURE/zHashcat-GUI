@@ -14,6 +14,13 @@ This is a simple Python web application built with Flask. The application provid
 - Kill process: Users can kill the running process.
 - Usernames presence: Users can indicate whether usernames are present in the uploaded hash file.
 
+## Screenshots
+### Light Mode
+![Light Mode](LightMode.png)
+
+### Dark Mode
+![Dark Mode](DarkMode.png)
+
 ## Usage
 
 1. Clone the repository.
